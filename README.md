@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Astronomy**
 
-- 👨‍💻 All of my projects are available at [nawab.github.io/portfolio](nawab.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [nawab.github.io](https://wasim207.github.io/nawab.sakin/)
 
 - 📫 How to reach me **nawabwasimrahman@gmail.com**
 
