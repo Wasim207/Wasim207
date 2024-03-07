@@ -39,7 +39,7 @@
     
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasim207&show_icons=true&locale=en&layout=compact" alt="wasim207" /></p>
 <br>
-
+<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasim207&show_icons=true&locale=en" alt="wasim207" /></p>
 <br>
 
