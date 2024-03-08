@@ -1,7 +1,7 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Wasim207.Wasim207" />
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=wasim207&label=Profile%20views&color=0e75b6&style=flat" alt="wasim207" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NAWAB+WASIM+RAHMAN!;" />
 </h1>
@@ -17,7 +17,7 @@
  
  </div>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasim207&label=Profile%20views&color=0e75b6&style=flat" alt="wasim207" /> </p>
+
 
 - 🔭 I’m currently working on **Big Data Analytics and Machine Learning**
 
